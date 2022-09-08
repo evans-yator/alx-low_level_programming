@@ -2,9 +2,7 @@
  * File: 6-size.c
  * Auth: Evans Yator 
  */
-
 #include <stdio.h>
-
 /**
  * main - Prints size of various types based on
  *        the computer it is compiled and run on..
