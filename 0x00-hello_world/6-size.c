@@ -4,9 +4,7 @@
  */
 #include <stdio.h>
 /**
- * main - Prints size of various types based on
- *        the computer it is compiled and run on..
- *
+ * main - Prints size of various types based on the type computer runs on.
  * Return: Always 0.
  */
 int main(void)
