@@ -1,9 +1,9 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * main - Entry point
- *
+ * _putchar- prints a character
+ * c- a function prototype
  * Return: Always returns 0
  */
 
