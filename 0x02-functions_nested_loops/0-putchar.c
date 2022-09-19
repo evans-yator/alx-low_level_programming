@@ -2,8 +2,8 @@
 
 /**
  * main - Entry point
- * _putchar- prints a character
- * c- a function prototype
+ * _putchar - prints a character
+ * @c - a function prototype
  * Return: Always returns 0
  */
 
