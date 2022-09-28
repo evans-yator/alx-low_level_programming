@@ -1,6 +1,12 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
 /**
+ * _putchar - is character
+ * @a: integer to print
+ * Return: void
+ */
+int _putchar(char a);
+/**
  * is_palindrome - is palindrome
  * @s: string to do
  * Return: boolean
