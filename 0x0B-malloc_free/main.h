@@ -5,6 +5,9 @@
  * @str: string to go to words
  * Return: char value
  */
+
+int _putchar(char);
+
 char **strtow(char *str);
 /**
  * argstostr - args stuff
@@ -52,7 +55,4 @@ char *create_array(unsigned int size, char c);
  * Return: boolean
  */
 
-char *argstostr(int ac, char **av)
-
-	char **strtow(char *str)
 #endif
